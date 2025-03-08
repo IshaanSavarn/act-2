@@ -1,0 +1,13 @@
+name=("Enter your name")
+age=input("Enter your age")
+gender=input("Enter your gender")
+grade=("Enter your grade")
+is_student=input("Are you a student (True/false)")
+weight=input("Enter your height")
+
+print("My anme is ", name)
+print("My name is ",age)
+print("My gender is",gender)
+print("My grade is",grade)
+print("My weight is",weight)
+print("My height is",height)
